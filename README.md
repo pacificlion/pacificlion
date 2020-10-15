@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there, I'm Prashant- aka [pacificlion][linkedin] 👋
 
-<!--
-**pacificlion/pacificlion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Developer and Teacher!
+- 🔭 I’m currently working on fashion retail auto labeling using tensorflow.
+- 🌱 I’m currently learning everything 🤣
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to read books. [Books I have read][goodreads].
 
-Here are some ideas to get you started:
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="pacificlion | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="pacificlion | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="pacificlion | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/goodreads.svg" />][goodreads]
+
+<br />
+<br />
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api?username=pacificlion&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=contribs,issues" />
+
+
+[twitter]: https://twitter.com/pacificlion123
+[linkedin]: https://www.linkedin.com/in/prashant-singh-38640a100/
+[goodreads]:https://www.goodreads.com/review/list/40466124?shelf=read

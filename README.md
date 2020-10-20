@@ -10,7 +10,7 @@
 
 [<img align="left" alt="pacificlion | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="pacificlion | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="pacificlion | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/goodreads.svg" />][goodreads]
+[<img align="left" alt="pacificlion | GoodReads" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/goodreads.svg" />][goodreads]
 
 <br />
 <br />

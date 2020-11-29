@@ -16,7 +16,7 @@
 <br />
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=pacificlion&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=contribs,issues" />
+<img src="https://github-readme-stats.vercel.app/api?username=pacificlion&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 
 
 [twitter]: https://twitter.com/pacificlion123

@@ -1,6 +1,6 @@
 ### Hi there, I'm Prashant- aka [pacificlion][linkedin] 👋
 
-## I'm a Developer and Teacher!
+## I'm a Developer!
 - 🔭 I’m currently working on fashion retail auto labeling using tensorflow.
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects

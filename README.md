@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on fashion retail auto labeling using tensorflow.
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I love to read books. [Books I have read][goodreads].
+- ⚡ Fun fact: I love to take yearly challenges. Currently on 50 books a year challenge [Books I have read][goodreads].
 
 ### Connect with me:
 
